@@ -1,0 +1,34 @@
+PERGUNTAS PROJETO MÓDULO 4 
+
+1 - QUAL REGIÃO POSSUI A MAIOR QUANTIDADE DE HABITANTES? (CASAS??)
+	Criaremos uma entidade habitantes, que comteplaria o nome de cada habitante,
+	sua casa e a respectiva região. Assim, conseguiriamos o quantitativo total por região
+
+
+2 - QUAL ATOR QUE TRABALHOU MENOS ANOS NA SÉRIE? 
+	Para isso, buscaremos uma entidade Atores, com seus respectivos atributos
+	(que satisfazem nossa condição): Nome do ator, ano da primeira e da última
+	aparição. Assim, saberemos quem foi e qual o somatório de anos participados 
+	na série.
+
+
+	
+3 - QUAL PERSONAGEM APARECEU EM MAIS EPISÓDIOS DENTRE 2012 E 2019?
+	Buscaremos o primeiro e último anos de suas aparições, além do montante
+	total de episódios em que o personagem aparece.
+
+
+
+4 - QUAL EPISÓDIO DA PRIMEIRA TEMPORADA OBTEVE A MAIOR NOTA COM A MENOR
+    QUANTIDADE DE VOTOS
+	Coletando os seguintes atributos da entidade Temporada: Número da temporada
+	, Número do Episódio e seu respectiovo título, Nota do episódio e a quantidade
+	de votos nele. 
+
+
+
+5 - NA TERCEIRA TEMPORADA, PODEMOS SABER O VALOR TOTAL DAS REVIEWS DOS
+	USUÁRIOS?
+	Inserimos os usuários e suas análises, assim, tendo o total por episódio
+	e o total de análises da temporada, no geral.
+
